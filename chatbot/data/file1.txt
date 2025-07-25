@@ -1,0 +1,175 @@
+## Headache
+A headache is pain or discomfort in the head or face area. It can be sharp, throbbing, or dull. Causes include stress, dehydration, lack of sleep, eye strain, sinus infection, or migraines.
+
+### Causes:
+- Tension (most common)
+- Dehydration
+- Sinus congestion
+- High blood pressure
+- Migraine (neurological origin)
+
+### Remedies:
+- Stay hydrated
+- Rest in a quiet, dark room
+- Use OTC medicines like ibuprofen or acetaminophen
+- For migraines: sumatriptan or other triptans
+
+---
+
+## Fever
+Fever is a temporary rise in body temperature, often due to infection.
+
+### Symptoms:
+- Temperature above 100.4°F (38°C)
+- Chills, sweating, body aches
+
+### Common causes:
+- Flu, viral/bacterial infections, COVID-19, heat exhaustion
+
+### Home care:
+- Stay hydrated, take rest
+- Use antipyretics like paracetamol or ibuprofen
+- Monitor temperature every 4 hours
+
+---
+
+## Cold and Flu
+Both are viral respiratory illnesses with overlapping symptoms.
+
+### Cold Symptoms:
+- Sneezing, runny nose, mild cough, sore throat
+
+### Flu Symptoms:
+- Fever, body aches, fatigue, dry cough, headache
+
+### Prevention:
+- Frequent handwashing
+- Flu vaccination
+- Avoid close contact with sick individuals
+
+---
+
+## Diabetes
+A chronic condition that affects blood sugar processing.
+
+### Types:
+- Type 1: Autoimmune, insulin-dependent
+- Type 2: Insulin resistance, lifestyle-related
+- Gestational: During pregnancy
+
+### Symptoms:
+- Excessive thirst and urination
+- Blurred vision, fatigue, slow wound healing
+
+### Treatment:
+- Low-sugar, low-carb diet
+- Regular exercise
+- Medication (metformin, insulin injections)
+
+---
+
+## Hypertension (High Blood Pressure)
+A condition where blood pressure remains persistently elevated.
+
+### Symptoms:
+- Often asymptomatic (silent killer)
+- Dizziness, headaches, blurred vision
+
+### Causes:
+- Genetics, obesity, high salt intake, stress, smoking
+
+### Control:
+- Reduce sodium
+- Exercise regularly
+- Medications like amlodipine, lisinopril
+
+---
+
+## COVID-19
+An infectious disease caused by SARS-CoV-2.
+
+### Symptoms:
+- Fever, cough, shortness of breath
+- Loss of taste or smell
+
+### Prevention:
+- Vaccination, masks, hand hygiene
+
+### Treatment:
+- Supportive care (fluids, rest)
+- Antivirals (severe cases)
+- Hospitalization if severe
+
+---
+
+## Antipyretic Medicines
+Used to reduce fever.
+
+### Examples:
+- Paracetamol (acetaminophen)
+- Ibuprofen
+
+### Dosage (adults):
+- Paracetamol: 500–1000 mg every 4–6 hrs (max 4g/day)
+- Ibuprofen: 200–400 mg every 6–8 hrs (max 1200 mg/day without prescription)
+
+---
+
+## Antibiotics
+Used for bacterial infections, not effective for viral illnesses.
+
+### Types:
+- Amoxicillin
+- Azithromycin
+- Ciprofloxacin
+- Metronidazole
+
+### Notes:
+- Complete the full course
+- Do not self-prescribe
+- Overuse causes resistance
+
+---
+
+## Emergency Signs (Go to Hospital Immediately):
+- Chest pain
+- High fever >104°F
+- Severe vomiting or diarrhea
+- Difficulty breathing
+- Loss of consciousness
+- Sudden weakness/numbness (possible stroke)
+
+---
+
+## Emergency Contacts
+- Poison Control: 1-800-222-1222 (US)
+- Local emergency: 911 (US)
+- Cardiac arrest helpline: 011-123-3123
+
+---
+
+## Available Doctors
+1. **Dr. Sarah Khan (General Physician)**
+   - Specialty: General checkups, viral illnesses
+   - Fee: $30 / 4500 PKR
+   - Timings: Mon-Fri (10 AM - 4 PM)
+
+2. **Dr. John Mathew (Neurologist)**
+   - Specialty: Migraines, chronic headaches
+   - Fee: $50 / 7500 PKR
+   - Timings: Tue-Thu (2 PM - 6 PM)
+
+3. **Dr. Ayesha Malik (Endocrinologist)**
+   - Specialty: Diabetes and hormonal disorders
+   - Fee: $40 / 6000 PKR
+   - Timings: Mon, Wed, Fri (11 AM - 3 PM)
+
+4. **Dr. Hamza Rehman (Cardiologist)**
+   - Specialty: Hypertension, heart diseases
+   - Fee: $60 / 9000 PKR
+   - Timings: Mon-Fri (9 AM - 1 PM)
+
+5. **Dr. Maria George (Infectious Disease Specialist)**
+   - Specialty: COVID-19, flu, bacterial infections
+   - Fee: $45 / 7000 PKR
+   - Timings: Sat-Sun (10 AM - 4 PM)
